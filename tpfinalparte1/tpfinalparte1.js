@@ -130,9 +130,9 @@ function draw() {
 function mousePressed() {
     if (localizarBoton(265, 360, 100, 50)) {
     if (sonidoDefondo.isPlaying()) {
-      sonidoDefondo.stop(); // Si está sonando, detén el sonido
+      sonidoDefondo.stop(); 
     } else {
-      sonidoDefondo.loop(); // Si no está sonando, empieza a reproducir en bucle
+      sonidoDefondo.loop(); 
     }
   }
     
