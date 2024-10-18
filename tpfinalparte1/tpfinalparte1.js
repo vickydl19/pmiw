@@ -1,5 +1,6 @@
 //Victoria Di Lorenzo y Azul Ceballos
 //Comisión 1
+//link a video https://youtu.be/PesaYkZpRkU
 //Modificamos el diagrama
 let textos = [];
 let fondos = [];
