@@ -3,7 +3,7 @@ class Juego {
     this.pantalla = "inicio";
     this.botonIniciar = new Boton(190, 370, 100, 50, "Comenzar");
     this.botonCreditos = new Boton(350, 370, 100, 50, "Créditos");
-    this.botonVolver = new Boton(490, 370, 100, 50, "Volver");
+    this.botonVolver = new Boton(490, 370, 100, 50, "Inicio");
     this.fondoInicio = new Fondo("data/imagen5.jpeg");
     this.fondoJuego = new Fondo("data/imagen.jpg");
     this.estadoJuego = "jugando";
