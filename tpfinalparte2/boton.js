@@ -30,7 +30,7 @@ class Boton {
       juego.iniciarJuego();
     } else if (this.texto === "Créditos") {
       juego.mostrarCreditos();
-    } else if (this.texto === "Volver") {
+    } else if (this.texto === "Inicio") {
       juego.mostrarInicio();
     }
   }
